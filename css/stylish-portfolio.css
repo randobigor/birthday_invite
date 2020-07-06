@@ -116,9 +116,9 @@ h6 {
 
 @media(max-width: 730px){
   .photo20{
-    margin-top: 4rem;
-    height: 20vh;
-    width: auto;
+    margin-top: 1rem;
+    height: auto;
+    width: 95vw;
   }
 }
 
